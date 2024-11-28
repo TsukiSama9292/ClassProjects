@@ -1,6 +1,0 @@
-ucimlrepo
-pandas
-scikit-learn
-huggingface_hub
-safetensors
-python-dotenv
